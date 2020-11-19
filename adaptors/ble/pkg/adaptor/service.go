@@ -28,7 +28,6 @@ func NewService() (*Service, error) {
 	if err != nil {
 		return nil, err
 	}
-
 	return &Service{
 		scheme: scheme,
 	}, nil

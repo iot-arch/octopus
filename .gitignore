@@ -38,3 +38,4 @@ bin
 .bash*
 ## Mac storage information
 .DS_Store
+vendor/
